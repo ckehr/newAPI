@@ -1,0 +1,38 @@
+body {
+	font-family: monospace;
+
+}
+
+ul {
+
+}
+.ars-technica {
+color: red;
+font-size: 25px;
+}
+.BBC {
+color: blue;
+font-size: 25px;
+}
+.associated-press {
+color: green;
+font-size: 25px;
+}
+li {
+	color: black;
+	list-style-type: square;
+	text-align: ;
+	padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-radius: 2px;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    text-decoration: underline;
+    cursor: auto
+}
+#search-results {
+    background-color: lightgrey;
+}
